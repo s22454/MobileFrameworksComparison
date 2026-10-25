@@ -1,0 +1,95 @@
+# Custom
+notes.md
+.env2
+stackoverflow_survey_2024.csv
+sources/*
+.VSCodeCounter/*
+README_old.md
+.png
+db.json
+
+!/Measurements/Module1/Flutter/build_tests/iOS*
+
+# Android / Gradle
+.gradle/
+/build/
+**/build/
+local.properties
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Android Studio / IntelliJ IDE specific
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/caches/
+.idea/libraries/
+.idea/shelf/
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+
+# Node.js / Backend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+
+# LOC
+.VSCodeCounter
+
+# FLUTTER
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Widget Preview related
+.widget_preview/
+
+android/key.properties
+*.jks
+*.keystore
+google-services.json
+GoogleService-Info.plist
+
+!/build/app/outputs/flutter-apk/*.apk
+!/build/app/outputs/bundle/release/*.aab
+!/build/ios/iphoneos/*.ipa
