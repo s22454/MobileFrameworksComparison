@@ -1,11 +1,11 @@
 # Custom
 notes.md
-.env2
+.env
 stackoverflow_survey_2024.csv
 sources/*
 .VSCodeCounter/*
 README_old.md
-.png
+pjatk_logo.png
 db.json
 
 !/Measurements/Module1/Flutter/build_tests/iOS*
